@@ -1,4 +1,4 @@
-FROM HTTPD
+FROM httpd
 MAINTAINER NAME DIVYA
 LABEL this is my app image
 EXPOSE 80
